@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'DevDay 2019',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        fontFamily: "Roboto"
       ),
       initialRoute: "/",
       routes: {
